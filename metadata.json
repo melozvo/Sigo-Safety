@@ -1,0 +1,7 @@
+{
+  "name": "Sigo Safety",
+  "description": "Tu asistente operativo diario de seguridad industrial. Guía, recuerda y protege en cada frente de trabajo siguiendo la normativa guatemalteca.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
